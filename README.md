@@ -41,5 +41,18 @@ python -m streamlit run app.py
 ## 📊 Dataset
 The system is optimized for `Book_Details.csv`, which includes high-quality cover images, summaries, and genres. It also supports fallback to `Books.csv` or `google_books_dataset.csv` automatically.
 
+## Screenshots
+
+### Home Page
+![Home](screenshots/Home.png)
+
+### Search Feature
+![Search](screenshots/Search.png)
+
+### Recommendation
+![Recommendation](screenshots/recommendation.png)
+
+### Discover Feature
+![Discover](screenshots/Discover.png)
 ---
 *Created with ❤️ by Bhavya*
