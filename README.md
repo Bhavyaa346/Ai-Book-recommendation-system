@@ -50,7 +50,7 @@ The system is optimized for `Book_Details.csv`, which includes high-quality cove
 ![Search](screenshots/Search.png)
 
 ### Recommendation
-![Recommendation](screenshots/recommendation.png)
+![Recommendation](screenshots/Recommendation.png)
 
 ### Discover Feature
 ![Discover](screenshots/Discover.png)
