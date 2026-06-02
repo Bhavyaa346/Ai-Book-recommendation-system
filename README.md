@@ -41,6 +41,8 @@ python -m streamlit run app.py
 ## 📊 Dataset
 The system is optimized for `Book_Details.csv`, which includes high-quality cover images, summaries, and genres. It also supports fallback to `Books.csv` or `google_books_dataset.csv` automatically.
 
+## Live demo
+Live Demo:  https://ai-book-recommendation-system-bnicncoua7dx9jnhtziqkh.streamlit.app/
 ## Screenshots
 
 ### Home Page
